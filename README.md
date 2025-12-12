@@ -30,4 +30,8 @@ Most of the notes and materials were extracted from the following references:
 * Feller, W. An introduction to probability theory and its applications. Vol. {II}.
 * Casella, G. And Berger R. L. Statistical inference.
 * Cocco, S. , Monasson, R. and Zamponi F. From statistical physics to data-driven modeling.
-* Goldstein R.E. Are theoretical results ‘Results’?  
+* Goldstein R.E. Are theoretical results ‘Results’?
+
+Additional references:
+* Galton's Height dataset was extracted from:https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T0HSJ1
+* Information about Sally Clarck case was obtained from: https://forensicstats.org/blog/2018/02/16/misuse-statistics-courtroom-sally-clark-case/
